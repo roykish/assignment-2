@@ -507,8 +507,7 @@ main {
     .feature-description-right img {
         width: 60%;
         max-width: 100%;
-        margin-left: 20%;
-
+        /* test */
     }
 
     .feature-description-right button {
